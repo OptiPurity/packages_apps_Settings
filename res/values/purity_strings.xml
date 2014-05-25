@@ -565,4 +565,18 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="heads_up_dnd_title">Do not disturb</string>
     <string name="heads_up_blacklist_title">Blacklist</string>
     <string name="heads_up_disabled_notice">To allow applications to display interactive notifications in a pop-up window on your screen, enable Heads up.</string>
+
+    <!-- Themes settings  -->
+    <string name="themes_settings_title">Themes</string>
+    <string name="themes_settings_summary">Change themes with T-Mobiles theme engine</string>
+
+    <!-- The following are entries under the themes menu -->
+    <string name="themepacks_settings_title">Theme Packs</string>
+    <string name="styles_settings_title">Styles</string>
+    <string name="icons_settings_title">Icons</string>
+    <string name="fonts_settings_title">Fonts</string>
+    <string name="lockscreen_wallpaper_settings_title">Lockscreen Wallpapers</string>
+    <string name="bootanim_settings_title">Boot Animations</string>
+    <string name="soundpack_settings_title">Sound Packs</string>
+
 </resources>
