@@ -80,7 +80,7 @@
     <!-- Volume wakeup -->
   <string name="display_category_wakeup_options_title">Uyandırma ayarları</string>
   <string name="pref_volume_wake_title">Ses tuşuyla uyandır</string>
-  <string name="volume_wake_summary">Ses tuşlarına basmak cihazı uyandırır</string>
+  <string name="pref_volume_wake_summary">Ses tuşlarına basmak cihazı uyandırır</string>
 
     <!-- Sound settings -->
   <string name="sound_title">Ses</string>
