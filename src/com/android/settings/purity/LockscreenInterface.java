@@ -133,7 +133,6 @@ public class LockscreenInterface extends SettingsPreferenceFragment implements
     @Override
     public boolean onPreferenceChange(Preference preference, Object objValue) {
         ContentResolver cr = getActivity().getContentResolver();
-        }
         return false;
     }
 
@@ -151,14 +150,5 @@ public class LockscreenInterface extends SettingsPreferenceFragment implements
         }
 
         preference.setEnabled(!disabled);
-    }
-
-    /**
-     * Checks if a specific policy is disabled by a device administrator.
-     * @param feature Feature
-     * @return Is disabled
-     */
-    private boolean featureIsDisabled(int feature) {
-        return (mDPM.getKeyguardDisabledFeatures(null) & feature) != 0;
     }
 }
