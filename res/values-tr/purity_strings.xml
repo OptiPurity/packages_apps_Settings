@@ -46,7 +46,7 @@
   <string name="status_bar_general_title">Genel</string>
 
     <!-- Status bar | Clock -->
-  <string name="status_bar_clock_title">Saat stili</string>
+  <string name="status_bar_clock">Saat stili</string>
   <string name="status_bar_clock_title">Tarih ve saat stili</string>
   <string name="clock_title_enable">Hizalama</string>
   <string name="status_bar_show_clock_title">Tarih ve saati göster</string>
@@ -101,7 +101,6 @@
   <string name="power_menu_expanded_desktop">Genişletilmiş Masaüstü</string>
   <string name="power_menu_airplane_title">Uçak modu</string>
   <string name="power_menu_silent_title">Ses paneli</string>
-  <string name="power_menu_expanded_desktop">Genişletilmiş Masaüstü</string>
   <string name="expanded_desktop_disabled">Devre dışı</string>
   <string name="expanded_desktop_status_bar">Durum çubuğu görünür</string>
   <string name="expanded_desktop_no_status_bar">Durum çubuğu gizli</string>
@@ -312,7 +311,6 @@
   <string name="pulse_speed_title">Yanma hızı ve süresi</string>
   <string name="default_time">Normal</string>
   <string name="custom_time">Özel</string>
-  <string name="dialog_delete_title">Sil</string>
   <string name="dialog_delete_message">Seçili Öge silinsin mi?</string>
   <string name="dialog_test">Test</string>
   <string name="dialog_test_message">Seçili bildirimi görmek için ekranı kapatın ya da bu dialogu yok sayarak testi durdurun</string>
