@@ -38,4 +38,6 @@
             android:key="lockscreen_maximize_widgets"
             android:summary="@string/lockscreen_maximize_widgets_summary"
             android:title="@string/lockscreen_maximize_widgets_title" />
+
+    </PreferenceCategory>
 </PreferenceScreen>
