@@ -427,9 +427,9 @@
   <string name="category_recent_panel_title" >Son Kullanılanlar</string>
 
     <!--  Recents clear all -->
-  <string name="show_recent_clear_all_button_title">Hepsini temizle butonunu göster</string>
+  <string name="show_recent_clear_all_button_title">Bütün buton konumlarını sıfırlayın</string>
   <string name="show_recent_clear_all_button_summary">Son kullanılanlar menüsünde hepsini temizle butonunu göstermek/gizlemek için bu kutuya dokunun</string>
-  <string name="recent_clear_all_button_location_title">Bütün buton konumlarını sıfırlayın</string>
+  <string name="recent_clear_all_button_location_title">Hepsini temizle butonunu göster</string>
   <string name="recent_clear_all_button_location_summary">Hepsini temizle butonunun hangi köşede olacağını seçin</string>
   <string name="recent_clear_all_button_location_top_left">Üst sol</string>
   <string name="recent_clear_all_button_location_top_right">Üst sağ</string>
