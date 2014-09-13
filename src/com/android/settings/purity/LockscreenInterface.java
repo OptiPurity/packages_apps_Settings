@@ -135,20 +135,4 @@ public class LockscreenInterface extends SettingsPreferenceFragment implements
         ContentResolver cr = getActivity().getContentResolver();
         return false;
     }
-
-   /**
-     * Checks if a specific policy is disabled by a device administrator, and disables the
-     * provided preference if so.
-     * @param preference Preference
-     * @param feature Feature
-     */
-    private void checkDisabledByPolicy(Preference preference, int feature) {
-        boolean disabled = featureIsDisabled(feature);
-
-        if (disabled) {
-            preference.setSummary(R.string.security_enable_widgets_disabled_summary);
-        }
-
-        preference.setEnabled(!disabled);
-    }
 }
