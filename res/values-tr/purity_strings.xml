@@ -559,15 +559,4 @@ parlaklık seviyesini ayarlayabilir hem de istediğiniz parlaklık düzeyini ell
   <string name="heads_up_blacklist_title">Kara liste</string>
   <string name="heads_up_disabled_notice">Ekranınızda uygulamaların etkileşimli bildirimler göstermesi için, Bildirim Pencerelerini etkinleştirin.</string>
 
-    <!-- Themes settings  -->
-  <string name="themes_settings_title">Temalar</string>
-  <string name="themepacks_settings_title">Tema paketleri</string>
-  <string name="styles_settings_title">Stiller</string>
-  <string name="icons_settings_title">Simgeler</string>
-  <string name="fonts_settings_title">Yazı tipleri</string>
-  <string name="wallpaper_settings_title_cm">Duvar kağıtları</string>
-  <string name="lockscreen_wallpaper_settings_title">Kilit ekranı duvar kağıtları</string>
-  <string name="bootanim_settings_title">Açılış animasyonları</string>
-  <string name="soundpack_settings_title">Ses paketleri</string>
-
 </resources>
